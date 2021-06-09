@@ -1,0 +1,8 @@
+class Stand{
+    constructor() {
+   
+      }
+      display(){
+        
+      }
+}
